@@ -6,7 +6,7 @@ This project leverages OCR and Large Language Models (LLMs) to intelligently ext
 
 * **Invoice Image Upload:** Seamlessly upload your invoice images for processing.
 * **OCR Text Extraction:** Utilizes Tesseract OCR to accurately extract text content from the uploaded invoices.
-* **AI-Powered Summarization:** Employs Google Gemini Pro/Flash to identify and summarize key fields and information from the extracted invoice data.
+* **AI-Powered Summarization:** Employs Google Gemini Flash to identify and summarize key fields and information from the extracted invoice data.
 
 ## Run
 
