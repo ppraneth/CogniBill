@@ -1,6 +1,6 @@
 # CogniBill
 
-This project leverages OCR and Large Language Models (LLMs) to intelligently extract and summarize crucial details from uploaded invoice images.
+This project leverages OCR and Large Language Models (LLMs) to intelligently extract and summarize crucial details from uploaded invoice images
 
 ## Features
 
